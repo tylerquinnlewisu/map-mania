@@ -1,0 +1,21 @@
+
+
+h1 {
+    text-align: center;
+    color: whitesmoke;
+    font-style: italic;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#googleMapID {
+    height: 100%;
+    width: 100%;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+}
