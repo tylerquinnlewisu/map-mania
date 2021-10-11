@@ -37,7 +37,7 @@ function initMap() {
 }
 
 function updateGame() {
-    console.log('function UpdateGame() google-maps-step-03!');
+    
     var zoomlevel = googleMap.getZoom()
     var inBounds = false;
     if (googleMap.getBounds().contains({lat:41.6050,lng:-88.0806})) {
